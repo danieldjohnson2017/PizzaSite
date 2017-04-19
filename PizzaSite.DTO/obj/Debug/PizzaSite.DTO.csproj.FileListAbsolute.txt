@@ -1,5 +1,0 @@
-D:\PizzaSite\PizzaSite.DTO\bin\Debug\PizzaSite.DTO.dll
-D:\PizzaSite\PizzaSite.DTO\bin\Debug\PizzaSite.DTO.pdb
-D:\PizzaSite\PizzaSite.DTO\obj\Debug\PizzaSite.DTO.csprojResolveAssemblyReference.cache
-D:\PizzaSite\PizzaSite.DTO\obj\Debug\PizzaSite.DTO.dll
-D:\PizzaSite\PizzaSite.DTO\obj\Debug\PizzaSite.DTO.pdb
