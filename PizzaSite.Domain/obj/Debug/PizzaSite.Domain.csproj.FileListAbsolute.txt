@@ -1,0 +1,11 @@
+D:\PizzaSite\PizzaSite.Domain\bin\Debug\PizzaSite.Domain.dll
+D:\PizzaSite\PizzaSite.Domain\bin\Debug\PizzaSite.Domain.pdb
+D:\PizzaSite\PizzaSite.Domain\obj\Debug\PizzaSite.Domain.csprojResolveAssemblyReference.cache
+D:\PizzaSite\PizzaSite.Domain\obj\Debug\PizzaSite.Domain.dll
+D:\PizzaSite\PizzaSite.Domain\obj\Debug\PizzaSite.Domain.pdb
+D:\PizzaSite\PizzaSite.Domain\bin\Debug\PizzaSite.DTO.dll
+D:\PizzaSite\PizzaSite.Domain\bin\Debug\PizzaSite.Persistance.dll
+D:\PizzaSite\PizzaSite.Domain\bin\Debug\PizzaSite.DTO.pdb
+D:\PizzaSite\PizzaSite.Domain\bin\Debug\PizzaSite.Persistance.pdb
+D:\PizzaSite\PizzaSite.Domain\bin\Debug\EntityFramework.dll
+D:\PizzaSite\PizzaSite.Domain\bin\Debug\EntityFramework.xml
